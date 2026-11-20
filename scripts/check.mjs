@@ -12,6 +12,9 @@ const versions = {
   "plugins/purrkey/.claude-plugin/plugin.json": read(
     "plugins/purrkey/.claude-plugin/plugin.json",
   ).version,
+  "plugins/purrkey/.cursor-plugin/plugin.json": read(
+    "plugins/purrkey/.cursor-plugin/plugin.json",
+  ).version,
   ".claude-plugin/marketplace.json": claudeMarket.plugins[0].version,
   ".cursor-plugin/marketplace.json (plugin)": cursorMarket.plugins[0].version,
   ".cursor-plugin/marketplace.json (metadata)": cursorMarket.metadata.version,

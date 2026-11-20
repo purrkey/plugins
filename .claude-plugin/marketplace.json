@@ -11,7 +11,7 @@
       "name": "purrkey",
       "source": "./plugins/purrkey",
       "category": "data",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Find, price and run 1,100+ data tools from your agent: social media, e-commerce, travel, jobs, web search and scraping. Pay per call from one Purrkey balance.",
       "author": {
         "name": "Purrkey",

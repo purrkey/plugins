@@ -1,0 +1,25 @@
+{
+  "name": "purrkey",
+  "description": "Find, price and run 1,100+ data tools from your agent: social media, e-commerce, travel, jobs, web search and scraping. Pay per call from one Purrkey balance.",
+  "author": {
+    "name": "Purrkey",
+    "url": "https://purrkey.app"
+  },
+  "homepage": "https://purrkey.app",
+  "repository": "https://github.com/purrkey/plugins",
+  "license": "MIT",
+  "keywords": [
+    "purrkey",
+    "mcp",
+    "ai-agents",
+    "data",
+    "scraping",
+    "social-media",
+    "search",
+    "api"
+  ],
+  "version": "0.1.1",
+  "logo": "assets/icon.png",
+  "skills": "./skills",
+  "mcpServers": "./mcp.json"
+}
