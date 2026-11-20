@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "purrkey": {
+      "type": "http",
+      "url": "https://api.purrkey.app/mcp",
+      "headers": {
+        "Authorization": "Bearer ${PURRKEY_API_KEY}"
+      }
+    }
+  }
+}

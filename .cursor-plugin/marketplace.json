@@ -1,0 +1,40 @@
+{
+  "name": "purrkey",
+  "owner": {
+    "name": "Purrkey",
+    "email": "support@purrkey.app"
+  },
+  "metadata": {
+    "description": "Official Purrkey plugins: pay-per-call data tools for AI agents.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "purrkey",
+      "source": "plugins/purrkey",
+      "logo": "assets/icon.png",
+      "category": "data",
+      "skills": "skills",
+      "mcpServers": "mcp.json",
+      "version": "0.1.0",
+      "description": "Find, price and run 1,100+ data tools from your agent: social media, e-commerce, travel, jobs, web search and scraping. Pay per call from one Purrkey balance.",
+      "author": {
+        "name": "Purrkey",
+        "url": "https://purrkey.app"
+      },
+      "homepage": "https://purrkey.app",
+      "repository": "https://github.com/purrkey/plugins",
+      "license": "MIT",
+      "keywords": [
+        "purrkey",
+        "mcp",
+        "ai-agents",
+        "data",
+        "scraping",
+        "social-media",
+        "search",
+        "api"
+      ]
+    }
+  ]
+}
